@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Camilo Andrés Castro
 
-<!--
-**camiloancastro/camiloancastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Enginer** | **Backend Developer** | **Java & Spring Boot Specialist**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Tech Stack**  
+Java 8/17 · Spring Boot · Spring Batch · PostgreSQL · MongoDB · Docker · Git · Maven · IntelliJ Ultimate · Azure DevOps · Swagger · Postman
+
+💼 **Experience**  
+- Backend Developer World Office Colombia (2022 - Present)  
+- Digital Platforms Analyst Politécnico Grancolombiano (2021)
+
+🎓 **Education**  
+- Systems Engineering | Politécnico Grancolombiano (2022)
+
+📜 **Certifications**  
+- Diploma in Computer Science – Politécnico Grancolombiano (2022)
+
+🌍 **Languages**  
+- Spanish (Native) · English (Intermediate - B1)
+
+📫 **Contact**  
+[LinkedIn](https://www.linkedin.com/in/camilocastrotech/) · [Email](mailto:camiloandrescastro.dev@gmail.com)
+
+---
+
+
